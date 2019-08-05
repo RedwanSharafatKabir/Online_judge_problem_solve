@@ -6,6 +6,7 @@ public class HellowWorld {
 		
         String inputString = s.nextLine(); 
         
-        System.out.println("Hello, World.\n"+inputString);
+        System.out.println("Hello, World." + " " + inputString);
+        System.out.println("Hello, Java.");
     }
 }
