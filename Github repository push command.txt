@@ -1,0 +1,8 @@
+cd Documents
+git clone <URL>
+cd "repository name"
+git status
+git add .
+git commit -m "new name"
+git push origin master
+
