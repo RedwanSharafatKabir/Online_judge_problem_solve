@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Online_judge_problem_solve">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Online_judge_problem_solve.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
